@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on several web project...
 - 📫 How to reach me Chrys85 or email me on : chrysante.moure@ism.edu.sn  or mchrysante1@gmail.com...
 
+- I enjoy learning new tools and techniques to improve my data analysis skills and share my knowledge with others.
+
 <!---
 Chrys85/Chrys85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
